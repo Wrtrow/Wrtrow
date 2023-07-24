@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wrtrow
-- 👀 I’m interested in Python and C++
-- 🌱 I’m currently learning Python and C++
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on every project.
 - 📫 How to reach me ...
 
